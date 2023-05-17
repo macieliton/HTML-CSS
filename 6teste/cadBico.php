@@ -20,16 +20,16 @@
         <form action="" method="get">
         <label for="marcabomba">Marca bomba:</label>
         <input type="text" name="marcabomba" id="idmarcabomba">
-        <label for=""></label>
-        <input type="text" name="" id="id">
-        <label for=""></label>
-        <input type="text" name="" id="id">
-        <label for=""></label>
-        <input type="text" name="" id="id">
-        <label for=""></label>
-        <input type="text" name="" id="id">
-        <label for=""></label>
-        <input type="text" name="" id="id">
+        <label for="modelos">modelos:</label>
+        <input type="text" name="modelos" id="idmodelos">
+        <label for="vazao">vazão:</label>
+        <input type="text" name="vazao" id="idvazao">
+        <label for="Ninventarioinmetro">Nº inventário inmetro</label>
+        <input type="text" name="Ninventarioinmetro" id="idNinventarioinmetro">
+        <label for="Ndabomba">Nº da bomba</label>
+        <input type="text" name="Ndabomba" id="idNdabomba">
+        <label for="Nseriedabomba">Nº serie da bomba</label>
+        <input type="text" name="Nseriedabomba" id="idNseriedabomba">
         </form>
     </section>
 </body>

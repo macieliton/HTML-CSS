@@ -20,9 +20,8 @@
     <br>
 
     <main>
-        <h1>aqui onde ficarão os bicos
+            aqui onde ficarão os bicos
             já cadastrados
-        </h1>
     </main>
 
     <form action="cadBico.php" method="get">

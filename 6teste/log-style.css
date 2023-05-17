@@ -144,10 +144,10 @@ ul>li::marker {
 
 /* ELEMENTOS DE FORMULÁRIO */
 
-form {
+/* form {
     background-color: rgba(128, 105, 253, 0.2);
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 10px; */
 }
 
 form label {
@@ -187,7 +187,7 @@ input[type=week] {
 }
 
 input[type=submit] {
-    width: 50%;
+    width: 100%;
     background-color: #4CAF50;
     font-size: 1em;
     color: white;

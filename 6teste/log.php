@@ -25,7 +25,7 @@
         </h1>
     </main>
 
-    <form action="log.php" method="get">
+    <form action="cadBico.php" method="get">
     <input type="submit" value="novo bico">
     </form><br>
 </body>
